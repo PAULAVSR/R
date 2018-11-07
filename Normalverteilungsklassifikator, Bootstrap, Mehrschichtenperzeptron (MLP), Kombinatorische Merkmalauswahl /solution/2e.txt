@@ -1,0 +1,4 @@
+("Anzahl der Eingabeneuronen" + 1) * "Anzahl der Hiddenneuronen" + ("Anzahl der Hiddenneuronen" + 1) * "Anzahl der Ausgabeneuronen"
+
+Die Anzahl der Ausgabeneuronen hängt von der Anzahl der Klassen ab.
+Für jede Klasse wird ein Neuron benötigt.Bei zwei Klassen reicht jedoch ein Neuron aus.
