@@ -1,0 +1,12 @@
+Kommentar zur 2e)
+Der Testdatensatz "vehicle.test" enthält 600*19 Datensätze weniger als der
+Lerndatensatz. Deshalb kann man erwarten, dass insbesondere wenn mithilfe
+der Testdaten gelernt werden soll, die Reklassifikationsrate eher
+pessimistisch ausfällt. Anhand der Ergebnisse (siehe Datei "error-rate.txt")
+ist dieser Effekt zu beobachten.
+Wenn "vehicle.test" als Lerndatensatz genommen
+wird und "vehicle.lern" als Testdatensatz ist die Reklassifikationsrate um ca.
+0.05 kleiner als bei einer umgekehrten Verwendung von vehicle.test und
+vehicle.lern (0.59 vs 0.64).
+Bei der Verwendung von "vehicle.test" als Test- und Lerndatensatz tritt die
+geringste Reklassifikationsrate auf. (0.45)
