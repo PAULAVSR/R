@@ -1,0 +1,3 @@
+Aufgrund von Singularitäten in den Lerndaten kann es zu Warnung in der Ausgabe von predict kommen. 
+Um dies zu verhindern, können die Polynomterme, welche als Koeffizienten NA erhalten, ausgenommen werden.
+Dafür muss in QMK.R die Zeilen 43-46 wieder einkommentieret werden.
