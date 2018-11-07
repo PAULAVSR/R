@@ -1,0 +1,3 @@
+2e) Der Aufruft von sms.Gz ist nicht erfolgreich. 
+Dies liegt daran, dass der Filter mehr Werte besitzt als in sms.Gz mit in die Rechnung mit einbezogen werden.
+Dies kann verhindert werden, indem beim aufrufen von smsplot n auf nmax+1 gesetzt wird.
