@@ -1,1 +1,0 @@
-Für dmax=5 wird die Fehlerrate bei diabetes gleich Null.
