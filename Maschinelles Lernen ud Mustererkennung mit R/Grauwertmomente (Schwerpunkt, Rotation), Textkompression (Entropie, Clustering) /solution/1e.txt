@@ -1,0 +1,13 @@
+Antworten zur Aufgabe 1e
+
+Zeppelin1: Binärversion vom Negativ erfolgreich
+Zeppelin2: Binärversion vom Negativ erfolgreich
+Zeppelin3: Binärversion vom Negativ erfolgreich
+Zeppelin4: Binärversion vom Negativ erfolgreich
+Zeppelin5: Binärversion vom Original erfolgreich
+Zeppelin6: Binärversion vom Original erfolgreich
+Zeppelin7: Binärversion vom Negativ erfolgreich
+Zeppelin8: eher nicht erfolgreich
+
+Die sehr hohen Schwarz- und Weißanteile im Hintergrund des Bildes verzerren den Bildschwerpunkt, wodurch der Schwerpunkt der Rakete nicht "gefunden" wird.
+Um den korrekten Neigungswinkel zu treffen, könnte man den weiß-grauen Anteil im Hintergrund schwarz machen. Dann sollte die Negativvariante des Originals den richtigen Neigungswinkel liefern. 

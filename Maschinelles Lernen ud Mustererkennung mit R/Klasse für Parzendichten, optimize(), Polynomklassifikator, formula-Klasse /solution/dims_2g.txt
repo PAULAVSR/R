@@ -1,0 +1,6 @@
+                    "Polynomgrad 0"	"Polynomgrad 1"	"Polynomgrad 2"	"Polynomgrad 3"
+"modelsize heart"	        1	              14	           105	            560
+"modelsize diabetes"	    1	               9	            45	            165
+"modelsize australia"	    1             	15	           120	            680
+"modelsize segment"	      	1	              18	           171             1140
+"modelsize vehicle"	      	1             	19             190             1330

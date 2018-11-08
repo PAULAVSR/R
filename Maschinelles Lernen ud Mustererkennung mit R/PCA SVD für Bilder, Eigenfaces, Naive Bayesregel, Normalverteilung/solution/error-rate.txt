@@ -1,0 +1,7 @@
+Fehlerraten
+2d: 0.04
+2e:
+"vehicle.lern:vehicle.lern" 0.516085790884719
+"vehicle.test:vehicle.lern" 0.589812332439678
+"vehicle.lern:vehicle.test" 0.64
+"vehicle.test:vehicle.test" 0.45

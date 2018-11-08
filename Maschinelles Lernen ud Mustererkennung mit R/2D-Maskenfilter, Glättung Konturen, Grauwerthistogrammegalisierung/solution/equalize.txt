@@ -1,0 +1,11 @@
+d)
+algae: Erfolgreich
+couple: Erfolgreich
+Donald: Nicht Erfolgreich
+mri1: Nicht Erfolgreich
+soil: Erfolgreich
+turbinate: Auf dem Bild ist nach der Egalisierung ein Muster zu erkennen, jedoch sind nur zwei Absolute Häufigkeiten zu erkennen.
+GUESS: Erfolgreich
+
+e)
+Auf dem Bild GUESS ist der berühmte Musiker Kim Jong Un zuerkennen.
