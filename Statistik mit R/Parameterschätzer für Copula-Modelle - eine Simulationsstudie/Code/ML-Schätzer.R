@@ -1,18 +1,18 @@
-#Maximum-Likelihood-Sch?tzer
+#Maximum-Likelihood-Schaetzer
 #
 #Deklaration
 #
 # p = rho = Korrelationskoeffizient
 # df = degrees of freedom = Freiheitsgrade
-# n = Stichprobengr??e
+# n = Stichprobengröße
 # col = Spalte in der Ergebnismatrix
 #
-#Maximum-Likelihood-Sch?tzer f?r:
+#Maximum-Likelihood-Schätzer für:
 #           n = 100,250,500,1000
-#           Gau?-Copula:  f?r p = -0.9,-0.7,...,0.7,0.9
-#           t-Copula: f?r p = -0.9,-0.7,...,0.7,0.9 und df = 3,5,10
-#           Gumbel-Copula: f?r p = 1.5,2.5,...,8.5,9.5
-#           Clayton-Copula: f?r p = 0.5,1.5,...8.5,9.5
+#           Gauß-Copula:  für p = -0.9,-0.7,...,0.7,0.9
+#           t-Copula: für p = -0.9,-0.7,...,0.7,0.9 und df = 3,5,10
+#           Gumbel-Copula: für p = 1.5,2.5,...,8.5,9.5
+#           Clayton-Copula: für p = 0.5,1.5,...8.5,9.5
 #
 # OS: Windows only!
 # Author: Paul Passek
